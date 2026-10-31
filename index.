@@ -1,0 +1,15 @@
+Hello, world
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website cua toi</title>
+</head>
+
+<body>
+    <h1>Xin chao!</h1>
+
+    <p>Toi dang hoc lap trinh Web.</p>
+
+    <p>Day la website dau tien cua toi.</p>
+</body>
+</html>
